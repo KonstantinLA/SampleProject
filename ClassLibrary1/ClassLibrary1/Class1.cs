@@ -13,7 +13,7 @@ namespace ClassLibrary1
         [Test]
         public void Bka()
         {
-            var dddd = 2;
+            var dddd = 4;
             Console.WriteLine(dddd);
             Assert.True(dddd == 2);
 
