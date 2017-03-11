@@ -15,7 +15,7 @@ namespace ClassLibrary1
         {
             var dddd = 4;
             Console.WriteLine(dddd);
-            Assert.True(dddd == 2);
+            Assert.True(dddd == 4);
 
         }
     }
